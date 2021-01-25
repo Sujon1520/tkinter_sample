@@ -1,3 +1,3 @@
 # tkinter_sample
 
-[python　で GUI Tkinterを学ぼう] sample program
+[pythonで GUI Tkinterを学ぼう] sample program
