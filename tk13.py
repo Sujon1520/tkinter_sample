@@ -1,3 +1,6 @@
+# tk13.py
+#modify to study git/github 2021/2/3
+
 import tkinter as tk
 
 root = tk.Tk()
